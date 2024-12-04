@@ -1,5 +1,4 @@
-
-Fourth order orthogonal spline collocation methods for two-point boundary value problems with interfaces
+Fourth order orthogonal spline collocation methods for two-point boundary value problems with interfaces 
 Authors: Santosh Kumar Bhal, Sahasransu Mohanty, Ashish Kumar Nandi
 Publication date : 2023/3
 Journal : The Journal of Analysis
